@@ -8,7 +8,7 @@ This is an open-source, personal Twitter style mimicry tool built as a responsiv
 - Fetch up to 3200 tweets from any public Twitter user's timeline.
 - Analyze tweet style based on vocabulary, syntax, emoji usage, and more.
 - Generate new tweets in the target user's style using a lightweight AI model (DistilGPT-2) running directly in your browser.
-- Clean and intuitive user interface.
+- Clean, intuitive, and minimalist user interface, focusing on direct functionality.
 - Secure handling of Twitter API keys (stored in browser localStorage or environment variables).
 - Automation hooks for scheduling posts via webhooks (requires OAuth 1.0a for posting).
 - Designed for low-cost (free tier only, no servers required for core functionality).

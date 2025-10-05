@@ -121,13 +121,14 @@ Open [http://localhost:3000](http://localhost:3000) in your browser. You should 
 
 ### Step 5: Test the Application
 
-1. Click the **Settings** icon (gear) in the top right
-2. Enter your Twitter Bearer Token
-3. Click **"Save Token"**
-4. Enter a Twitter username (e.g., "elonmusk")
-5. Click **"Fetch & Analyze Tweets"**
-6. Wait for the analysis to complete
-7. Optionally enter a prompt and click **"Train & Generate"**
+1. Locate the **API Configuration** section.
+2. Enter your Twitter Bearer Token in the provided input field.
+3. Click **"Save Token"**.
+4. Scroll down to the **1. Analyze Twitter Account** section.
+5. Enter a Twitter username (e.g., "elonmusk") in the input field.
+6. Click **"Fetch & Analyze"**.
+7. Wait for the analysis to complete and the "Style Analysis" section to appear.
+8. Optionally, scroll to the **2. Generate Tweet** section, enter a prompt, and click **"Generate"**.
 
 ## Deployment to Vercel
 
